@@ -7,7 +7,7 @@ your PATH according to the Prerequisites section in that file.
 ## Monitoring
 
 ROSRV depends on ROSMOP for monitoring. Please refer to 
-https://github.com/runtimeverification/rosmop for more information.
+https://github.com/Formal-Systems-Laboratory/rosmop for more information.
 
 ## Access Control
 
